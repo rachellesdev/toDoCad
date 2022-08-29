@@ -9,12 +9,6 @@ const FormCad = () => {
         sobrenome: "",
         email: "",
         tel: "",
-        cep: "",
-        endereco1: "",
-        endereco2: "",
-        date: "",
-        cpf: "",
-        renda: "",
       });
       const [infos, setInfos] = useState({});
       const [lista, setLista] = useState([])
